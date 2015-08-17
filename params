@@ -1,0 +1,13 @@
+thresh=2000
+type=cir
+trace=/home/users/leonxin/experiment/trace/40_100_1_0.4_0_java
+thnum=1
+heuristic=false
+freq=1000
+break=1000000
+buffered=false
+avgnum=20
+trceenable=true
+prerun=false
+issim=false
+phylogeny=false
